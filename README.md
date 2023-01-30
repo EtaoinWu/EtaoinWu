@@ -12,13 +12,13 @@ I am Yue Wu ("Wu" is my surname), and I'm usually known as "Etaoin" online.
 - Programming Languages: C/C++, Python, JS/TS (ordered by proficiency)
 - Tools and Frameworks: LaTeX, PyTorch, Seaborn, Git, Hugo
 
+<img align=right src="https://ghstat.miao.dev/api/top-langs?username=EtaoinWu&show_icons=true&bg_color=60,#000000,#FFFFFFF&cache_seconds=1800"/>
+
 #### 🧮 Research Interests
 - Algorithmic Game Theory
   - and its Applications on Blockchains
 - Learning in Games
 - Social Networks and Social Games
-
-<img align=right src="https://ghstat.miao.dev/api/top-langs?username=EtaoinWu&show_icons=true&bg_color=60,#000000,#FFFFFFF&cache_seconds=1800"/>
 
 #### 📫 Contact Me
 - Email: me # etaoinwu.com
