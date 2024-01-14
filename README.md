@@ -5,7 +5,7 @@
 I am Yue Wu ("Wu" is my surname), and I'm usually known as "Etaoin" online.
 
 - Pronouns: he/they
-- Undergraduate @ PKU, working with [CFCS](https://cfcs.pku.edu.cn/)
+- PhD student @ USC, working with [Theory Group](https://viterbi-web.usc.edu/~cstheory/)
 - Site: [Blog](https://etaoinwu.com/)
 
 #### 🤖 Skills and Programming Languages
@@ -16,7 +16,6 @@ I am Yue Wu ("Wu" is my surname), and I'm usually known as "Etaoin" online.
 
 #### 🧮 Research Interests
 - Algorithmic Game Theory
-  - and its Applications on Blockchains
 - Learning in Games
 - Social Networks and Social Games
 
